@@ -1,0 +1,14 @@
+package JavaTutorial;
+
+public class JavaTutorial_tax {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+
+		float a = 85000;
+		System.out.println("Tax paid for Salary is:");
+		System.out.println(a*20/100);
+		
+	}
+
+}
